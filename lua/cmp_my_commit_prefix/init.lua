@@ -44,4 +44,3 @@ source.option = function(_, params)
 end
 
 return source
-
